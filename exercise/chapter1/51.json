@@ -1,0 +1,20 @@
+{
+    "simpson": {
+        "rDias":2,
+        "nDias":0,
+        "initNDias":0,
+        "direction": "dong",
+        "initDirection": "dong",
+        "initRow": 1,
+        "initCol": 1,
+        "currentRow":1,
+        "currentCol":1
+    },
+    "matrix":{    
+        "nrow":7,
+        "ncol":7,
+        "size":50
+    },    
+    "diamond": [{"row":1, "col":2}, {"row":1, "col":3}],
+    "script": "tienBuoc();\ndaoKimCuong();\ntienBuoc();\ndaoKimCuong();"
+}

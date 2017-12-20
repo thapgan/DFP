@@ -1,0 +1,28 @@
+{
+    "simpson": {
+        "rDias":1,
+        "nDias":0,
+        "initNDias":0,
+        "direction": "dong",
+        "initDirection": "dong",
+        "initRow": 1,
+        "initCol": 1,
+        "currentRow":1,
+        "currentCol":1
+    },
+    "matrix":{    
+        "nrow":9,
+        "ncol":9,
+        "size":50
+    },    
+    "diamond": [{"row":8, "col":6}],
+    "holes": [{"row":4, "col":5}, {"row":5, "col":5}, {"row":8, "col":5}],    
+    "rocks": [{"row":1, "col":7},{"row":2, "col":1},{"row":2, "col":2},{"row":2, "col":3},{"row":2, "col":6}, 
+              {"row":3, "col":1}, {"row":3, "col":2},{"row":3, "col":3},{"row":3, "col":6},
+              {"row":4, "col":2},{"row":5, "col":2},
+              {"row":6, "col":2},{"row":6, "col":3}, {"row":6, "col":6},
+              {"row":7, "col":2},{"row":7, "col":7},
+              {"row":8, "col":2},
+              {"row":9, "col":2},{"row":9, "col":3}, {"row":9, "col":4}, {"row":9, "col":5}, {"row":9, "col":6}, {"row":9, "col":7}
+            ]
+}

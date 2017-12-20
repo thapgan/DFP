@@ -1,0 +1,23 @@
+{
+    "simpson": {
+        "rDias":1,
+        "nDias":0,
+        "initNDias":0,
+        "direction": "dong",
+        "initDirection": "dong",
+        "initRow": 2,
+        "initCol": 3,
+        "currentRow":2,
+        "currentCol":3
+    },
+    "matrix":{    
+        "nrow":9,
+        "ncol":9,
+        "size":50
+    },    
+    "diamond": [{"row":2, "col":1}],
+    "rocks": [{"row":1, "col":2},{"row":2, "col":2}, 
+              {"row":3, "col":2},{"row":3, "col":3}, {"row":3, "col":4},
+              {"row":4, "col":2},{"row":4, "col":3}, {"row":4, "col":4},
+              {"row":5, "col":2},{"row":5, "col":3}, {"row":5, "col":4}]    
+}
